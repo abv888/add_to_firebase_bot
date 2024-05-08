@@ -1,0 +1,6 @@
+telebot
+firebase-admin
+firestore
+asyncio
+python-dotenv
+aiohttp
